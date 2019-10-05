@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Resume</title>
+		<h1>RESUME</h1>
+		<h3>Desamito, Julianne Marie A.</h3>
+	</head>
+
+<aside>
+	<h4>Menu Here</h4>
+		<ul>
+			<li>PERSONAL INFORMATION</li>
+			<li>OBJECTIVE</li>
+			<li>EXPERIENCE</li>
+			<li>PERSONAL SKILLS</li>
+			<li>EDUCATION</li>
+			<li>ACHIEVEMENTS/AWARDS</li>
+		</ul>
+</aside>
+
+<body>
+	<section><strong>PERSONAL INFORMATION:</strong></section>
+		<p>
+			<strong>Gender: </strong> Female <br>
+			<strong>Birthday: </strong> July 19, 1999 <br>
+			<strong>Age: </strong> 19 <br>
+			<strong>Address: </strong> Lower Malvar Street Trancoville, Baguio City <br>
+			<strong>Nationality: </strong> Filipino <br>
+			<strong>Civil Status: </strong> Single <br>
+			<strong>Contact No.: </strong> 09567180378 <br>
+			<strong>Email: </strong> ianne.desamito19@gmail.com <br>
+		</p>
+
+		<div>
+			<section><strong>OBJECTIVE</strong></section>
+			<ul>
+			   <li>To seek work experience that provides an opportunity to expand my skills and knowledge.</li>
+			   <li>To obtain a position that will enable me to use my ability to work well with people. </li>
+			   <li>To contribute a positive work environment while learning and applying work expectations. </li>
+			   <li>To achieve goals of your company that focuses the developing and implementing innovation ideas. </li>
+			</ul>
+		</div>
+
+		<div>
+			<section><strong>EXPERIENCE</strong></section>
+				<p><strong>Senior High School</strong> <br>
+				November 22, 2017 to December 07, 2017 <br>
+				Eastern Pangasinan District Hospital (EPDH) <br>
+				Work Immersion/ On the Job Training <br>
+		</div>
+
+		<div>
+			<section><strong>PERSONAL SKILLS</strong></section>
+			<ul>
+				<li>Adaptability skills</li>
+				<li>Friendly Personality</li>
+				<li>Ability to work independently</li>
+				<li>Highly organized and efficient</li>
+				<li>Interpersonal skills</li>
+			</ul>
+		</div>
+
+		<div>
+			<section><strong>EDUCATION</strong></section>
+				<p><strong>Senior High School</strong> <br>
+				Grade 11-12 (Science, Technology, Engineering, & Mathematics) <br>
+				Tayug National High School <br>
+				S.Y. 2016-2018 <br>
+				</p>
+
+				<p><strong>Junior High School</strong> <br>
+				Tayug National High School <br>
+				S.Y. 2014-2016 <br>
+				Jesus The Exalted Name (JTEN) <br>
+				S.Y. 2012-2014 <br>
+				</p>
+		</div>
+
+
+		<div>
+			<section><strong>ACHIEVEMENTS/AWARDS</strong></section>
+				<ul>
+					<li>Grade11-STEM (consistent with honors)</li>
+					<li>Grade12-STEM (consistent with honors)</li>
+					<li>Best in Work Immersion</li>
+				</ul>
+		</div>
+
+
+<footer></footer>
+
+</body>
+</html>
